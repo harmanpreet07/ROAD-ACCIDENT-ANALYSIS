@@ -1,4 +1,4 @@
-![Road Accident Dashboard](Screenshot&2025-09-12&195253.png)
+![Road Accident Dashboard](https://github.com/harmanpreet07/ROAD-ACCIDENT-ANALYSIS/blob/main/Screenshot%202025-09-12%20195253.png)
 
 
 # ROAD-ACCIDENT-ANALYSIS
