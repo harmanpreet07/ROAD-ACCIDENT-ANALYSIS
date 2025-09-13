@@ -14,18 +14,28 @@ Thrilled to share one of my recent projects where I built a Power BI dashboard t
 This dashboard provides a deep dive into:
 
  ✅ Total casualties, accidents, and severity trends
+ 
  ✅ Accident distribution by vehicle type, road type, and light conditions
+ 
  ✅ Urban vs. rural accident breakdown
- ✅ Location-based analysis across the UK
+ 
+ ✅ Location-based analysis across the Country
+ 
 
  
-What excites me most about this project is not just the data visualization, but the impact it can create. By analyzing patterns such as peak accident months, common vehicle types, and high-risk areas, such insights can be used to improve road safety policies and potentially save lives.
+What excites me most about this project is not just the data visualization, but the impact it can create.
+
+By analyzing patterns such as peak accident months, common vehicle types, and high-risk areas, such insights can be used to improve road safety policies and potentially save lives.
 
 
 This project helped me strengthen my skills in:
+
  🔹 Power BI (visualization & DAX)
+ 
  🔹 Data storytelling
+ 
  🔹 Turning raw data into actionable insights
+ 
 
  
 I believe data, when presented effectively, can make a real difference. 🚗💡
