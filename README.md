@@ -1,3 +1,6 @@
+![Road Accident Dashboard](Screenshot&2025-09-12&195253.png)
+
+
 # ROAD-ACCIDENT-ANALYSIS
 
 
